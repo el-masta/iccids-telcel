@@ -1,8 +1,8 @@
 # ICCID's
 
-## WebApp para seguimiento de ICCID's de Telcel, los datos se almacenan en servidor MongoDB local.
+WebApp para seguimiento de ICCID's de Telcel, los datos se almacenan en servidor MongoDB local.
 
-<p align="center">Proyecto realizado con:</p>
+##<p align="center">Proyecto realizado con:</p>
 
 <p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
 
