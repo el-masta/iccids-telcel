@@ -1,0 +1,5 @@
+  bash arg: -p
+  bash arg: com.aamir.simpledialler
+  bash arg: 1
+Events injected: 1
+## Network stats: elapsed time=35ms (0ms mobile, 0ms wifi, 35ms not connected)
